@@ -1,0 +1,24 @@
+I'm planning on creating a lite version of photoshop. It will allow users to complete some basic photo editing techniques as well as a few advanced ones, without the learning curve that including drawing and illustration techniques will add. 
+
+It will contain content aware features that tailor their results to the user’s selected photo, as well as basic features such as brightness/contrast manipulation, and black and white adjustment
+
+The project will use Pillow for image manipulation and Kivy for the interface. 
+
+Possibilities I'm considering for photo manipulation include:
+Action recorder
+BW conversion / adjustment by color channel
+Brightness/contrast
+Threshold conversion
+Blur
+Warp
+Crop
+Pinch to zoom in/zoom out
+Blend images
+Selection area
+Undo/Redo ==> edit history
+Smart select
+Kivy UI Color wheel for color selection
+Seam Carving
+Convert image to polar coordinatesDraw/erase
+Smudge tool
+Various basic image adjustments
